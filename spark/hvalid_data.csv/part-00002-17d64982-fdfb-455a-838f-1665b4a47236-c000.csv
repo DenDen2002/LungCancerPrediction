@@ -1,0 +1,5 @@
+content,path,label,label_index
+[B@3e059eca,hdfs://namenode:8020/datasets/lungcancer/valid/normal/6 - Copy (2) - Copy.png,normal,2
+[B@262c04f8,hdfs://namenode:8020/datasets/lungcancer/valid/normal/6 - Copy.png,normal,2
+[B@458184f9,hdfs://namenode:8020/datasets/lungcancer/valid/normal/4 - Copy (2).png,normal,2
+[B@cf63a02,hdfs://namenode:8020/datasets/lungcancer/valid/normal/4 (2).png,normal,2

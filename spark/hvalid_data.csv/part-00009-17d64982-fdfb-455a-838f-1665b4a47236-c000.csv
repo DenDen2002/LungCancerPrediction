@@ -1,0 +1,5 @@
+content,path,label,label_index
+[B@322679d2,hdfs://namenode:8020/datasets/lungcancer/valid/adenocarcinoma/000108 (8).png,adenocarcinoma,0
+[B@50df399b,hdfs://namenode:8020/datasets/lungcancer/valid/squamous.cell.carcinoma/000118 (4).png,squamous_cell_carcinoma,3
+[B@7f31b9a4,hdfs://namenode:8020/datasets/lungcancer/valid/adenocarcinoma/000114 (10).png,adenocarcinoma,0
+[B@51824de3,hdfs://namenode:8020/datasets/lungcancer/valid/adenocarcinoma/000112 (2).png,adenocarcinoma,0

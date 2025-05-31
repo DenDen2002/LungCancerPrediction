@@ -1,0 +1,201 @@
+image_path,true_label,predicted_label
+hdfs://namenode:8020/datasets/test/normal/25.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 - Copy (3).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 - Copy (3).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 - Copy (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 - Copy (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 - Copy - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/8 (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 - Copy (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 - Copy (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 - Copy - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/7 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/24 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/24.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6 (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6 (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6 - Copy (3).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/normal.png,normal,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/normal/6 - Copy (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6 - Copy (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/6 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/normal - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/23.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/21.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 - Copy - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 - Copy (3).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 - Copy (3).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 - Copy (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 - Copy (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 - Copy - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/11 - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 - Copy (2) - Copy.png,normal,normal
+hdfs://namenode:8020/datasets/test/normal/12 - Copy (2).png,normal,normal
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000171 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000118 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000125 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000137 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000157 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000173 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000119 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000109 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000158 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000161 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000120 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000173 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000163 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000136 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000115 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000116 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000177 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000121 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000131 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000137 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000127 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000144 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000138 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000157 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000123 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000109 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000126 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000145 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000139 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000134 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000177 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000108 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000118 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000139 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000117 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000149 (7).png,adenocarcinoma,normal
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000142 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000167 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000159 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000124 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000158 (5).png,adenocarcinoma,normal
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000174 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000124 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000163 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000139 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000156 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000132 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000116 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000115 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000129 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000155 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000166 (3).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000121 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000164 (5).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000158 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000133 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000142 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000172 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000131 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000146 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000151 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000129 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000119 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000153 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000113 (7).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000122 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000161 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000134 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000148 (3).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000125 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000116 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000164 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000109 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000167 (3).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000125 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000151 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000141 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000132 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000146 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000115 (2).png,large_cell_carcinoma,adenocarcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000157 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000117 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000163 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000153 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000120.png,large_cell_carcinoma,normal
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000133 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000114 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000148 (2).png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000168 (3).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000134 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000143 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000116 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000125 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000169 (6).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000135 (5).png,adenocarcinoma,normal
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000136 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000145 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000120.png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000139 (9).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000148.png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000119 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000165 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000146 (3).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000149 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000124 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000116.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000122 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000119 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000159 (2).png,large_cell_carcinoma,normal
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000160 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000155.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000127 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000139 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000112 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000115 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000138 (2).png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000138 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000172 (2).png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000158 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000137 (4).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000132 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000112.png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000139 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000139 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000123.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000174.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000111.png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000133 (2).png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000130 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000125.png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000135 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000115 (8).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000124.png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000163.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000160 (4).png,adenocarcinoma,normal
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000123 (6).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000126 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000154 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000162.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000158 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000158.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000149 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000114.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000125 (2).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000118 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000155 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000122.png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000173.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000154 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/adenocarcinoma/000143 (5).png,adenocarcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000120 (3).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000110.png,large_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000148 (4).png,squamous_cell_carcinoma,squamous_cell_carcinoma
+hdfs://namenode:8020/datasets/test/large.cell.carcinoma/000124 (2).png,large_cell_carcinoma,adenocarcinoma
+hdfs://namenode:8020/datasets/test/squamous.cell.carcinoma/000119.png,squamous_cell_carcinoma,squamous_cell_carcinoma

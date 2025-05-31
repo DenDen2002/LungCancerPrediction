@@ -1,0 +1,62 @@
+2025-05-14 01:27:54.001321: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-14 01:27:54.050436: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-05-14 01:27:54.448586: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2025-05-14 01:27:54.450087: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-05-14 01:27:55.811346: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Matplotlib created a temporary cache directory at /tmp/matplotlib-3h_elnot because the default path (/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+25/05/14 01:27:59 INFO SparkContext: Running Spark version 3.3.0
+25/05/14 01:27:59 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+25/05/14 01:27:59 INFO ResourceUtils: ==============================================================
+25/05/14 01:27:59 INFO ResourceUtils: No custom resources configured for spark.driver.
+25/05/14 01:27:59 INFO ResourceUtils: ==============================================================
+25/05/14 01:27:59 INFO SparkContext: Submitted application: LungCancerClassification
+25/05/14 01:27:59 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 8192, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+25/05/14 01:27:59 INFO ResourceProfile: Limiting resource is cpu
+25/05/14 01:27:59 INFO ResourceProfileManager: Added ResourceProfile id: 0
+25/05/14 01:27:59 INFO SecurityManager: Changing view acls to: spark
+25/05/14 01:27:59 INFO SecurityManager: Changing modify acls to: spark
+25/05/14 01:27:59 INFO SecurityManager: Changing view acls groups to: 
+25/05/14 01:27:59 INFO SecurityManager: Changing modify acls groups to: 
+25/05/14 01:27:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(spark); groups with view permissions: Set(); users  with modify permissions: Set(spark); groups with modify permissions: Set()
+25/05/14 01:27:59 INFO Utils: Successfully started service 'sparkDriver' on port 35659.
+25/05/14 01:27:59 INFO SparkEnv: Registering MapOutputTracker
+25/05/14 01:27:59 INFO SparkEnv: Registering BlockManagerMaster
+25/05/14 01:27:59 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+25/05/14 01:27:59 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+25/05/14 01:27:59 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+25/05/14 01:27:59 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-dd8c7190-6680-422a-9148-4a7dbb5610df
+25/05/14 01:27:59 INFO MemoryStore: MemoryStore started with capacity 366.3 MiB
+25/05/14 01:27:59 INFO SparkEnv: Registering OutputCommitCoordinator
+25/05/14 01:28:00 WARN Utils: Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+25/05/14 01:28:00 INFO Utils: Successfully started service 'SparkUI' on port 4041.
+25/05/14 01:28:00 INFO Executor: Starting executor ID driver on host 5707777395d1
+25/05/14 01:28:00 INFO Executor: Starting executor with user classpath (userClassPathFirst = false): ''
+25/05/14 01:28:00 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 45683.
+25/05/14 01:28:00 INFO NettyBlockTransferService: Server created on 5707777395d1:45683
+25/05/14 01:28:00 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+25/05/14 01:28:00 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 5707777395d1, 45683, None)
+25/05/14 01:28:00 INFO BlockManagerMasterEndpoint: Registering block manager 5707777395d1:45683 with 366.3 MiB RAM, BlockManagerId(driver, 5707777395d1, 45683, None)
+25/05/14 01:28:00 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 5707777395d1, 45683, None)
+25/05/14 01:28:00 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 5707777395d1, 45683, None)
+Loading datasets...
+Showing train_df after useing get_labeled_paths this function:
+root
+ |-- content: binary (nullable = true)
+ |-- path: string (nullable = true)
+ |-- label: string (nullable = true)
+
+processing Label...
+Showing train_df after using label_index: {0: 'adenocarcinoma', 1: 'large_cell_carcinoma', 2: 'normal', 3: 'squamous_cell_carcinoma'}
+Showing train_df:
+root
+ |-- content: binary (nullable = true)
+ |-- path: string (nullable = true)
+ |-- label: string (nullable = true)
+ |-- label_index: integer (nullable = true)
+
+Creating training dataset...
+
+Total images loaded into train_data: 500
+
+ERROR: The dataset length is unknown.

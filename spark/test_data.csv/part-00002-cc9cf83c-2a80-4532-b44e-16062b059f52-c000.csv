@@ -1,0 +1,17 @@
+content,path,label,label_index
+[B@34f5614,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 (2).png,normal,2
+[B@3c653467,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 - Copy - Copy.png,normal,2
+[B@2b608ef8,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 - Copy.png,normal,2
+[B@36b052a0,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 - Copy (3).png,normal,2
+[B@4fb64d94,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 (2) - Copy.png,normal,2
+[B@5a658e09,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 (2).png,normal,2
+[B@75dddcf3,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 - Copy (3).png,normal,2
+[B@41ccb5ba,hdfs://namenode:8020/datasets/lungcancer/test/normal/11.png,normal,2
+[B@3ceb9afa,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 - Copy (2) - Copy.png,normal,2
+[B@4a884ea8,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 - Copy (2).png,normal,2
+[B@51a9394e,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 - Copy - Copy.png,normal,2
+[B@756c37a4,hdfs://namenode:8020/datasets/lungcancer/test/normal/11 - Copy.png,normal,2
+[B@15305fb9,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 - Copy (2) - Copy.png,normal,2
+[B@1dc5beb9,hdfs://namenode:8020/datasets/lungcancer/test/normal/12 - Copy (2).png,normal,2
+[B@5be8706,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000171 (5).png,adenocarcinoma,0
+[B@11fb5102,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000118 (5).png,adenocarcinoma,0

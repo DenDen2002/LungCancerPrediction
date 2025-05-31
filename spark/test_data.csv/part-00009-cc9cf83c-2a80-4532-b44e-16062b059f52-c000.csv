@@ -1,0 +1,17 @@
+content,path,label,label_index
+[B@25b7b77f,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000139 (9).png,adenocarcinoma,0
+[B@6842dde5,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000148.png,adenocarcinoma,0
+[B@19625b8f,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000119 (4).png,adenocarcinoma,0
+[B@224a5ac2,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000165 (6).png,adenocarcinoma,0
+[B@3a5e1dbb,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000146 (3).png,adenocarcinoma,0
+[B@448d42e0,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000149 (4).png,adenocarcinoma,0
+[B@4fb8d7dd,hdfs://namenode:8020/datasets/lungcancer/test/squamous.cell.carcinoma/000124 (4).png,squamous_cell_carcinoma,3
+[B@3f5418a2,hdfs://namenode:8020/datasets/lungcancer/test/large.cell.carcinoma/000116.png,large_cell_carcinoma,1
+[B@752d7936,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000122 (4).png,adenocarcinoma,0
+[B@5b99af31,hdfs://namenode:8020/datasets/lungcancer/test/squamous.cell.carcinoma/000119 (4).png,squamous_cell_carcinoma,3
+[B@52969da0,hdfs://namenode:8020/datasets/lungcancer/test/large.cell.carcinoma/000159 (2).png,large_cell_carcinoma,1
+[B@4d180e58,hdfs://namenode:8020/datasets/lungcancer/test/squamous.cell.carcinoma/000160 (4).png,squamous_cell_carcinoma,3
+[B@53e22a04,hdfs://namenode:8020/datasets/lungcancer/test/large.cell.carcinoma/000155.png,large_cell_carcinoma,1
+[B@4594e76e,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000127 (5).png,adenocarcinoma,0
+[B@230919e1,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000139 (5).png,adenocarcinoma,0
+[B@2eeeb916,hdfs://namenode:8020/datasets/lungcancer/test/adenocarcinoma/000112 (2).png,adenocarcinoma,0

@@ -1,0 +1,63 @@
+services:
+  namenode:
+    image: apache/hadoop:3.3.6
+    hostname: namenode
+    command: ["hdfs", "namenode"]
+    volumes:
+      - ./Makefile:/opt/hadoop/Makefile
+    ports:
+      - 9870:9870
+    env_file:
+      - ./config
+    environment:
+      ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
+    networks:
+      - hadoop-spark-network
+
+  datanode:
+    image: apache/hadoop:3.3.6
+    command: ["hdfs", "datanode"]
+    env_file:
+      - ./config
+    networks:
+      - hadoop-spark-network
+
+  resourcemanager:
+    image: apache/hadoop:3.3.6
+    hostname: resourcemanager
+    command: ["yarn", "resourcemanager"]
+    ports:
+      - 8088:8088
+    env_file:
+      - ./config
+    networks:
+      - hadoop-spark-network
+
+  nodemanager:
+    image: apache/hadoop:3.3.6
+    command: ["yarn", "nodemanager"]
+    env_file:
+      - ./config
+    networks:
+      - hadoop-spark-network
+
+  spark:
+    image: bitnami/spark:3
+    environment:
+      - SPARK_MASTER=yarn
+      - SPARK_YARN_MODE=true
+      - HADOOP_CONF_DIR=/opt/hadoop/etc/hadoop
+    command: ["pyspark"]
+    ports:
+      - 4040:4040
+    volumes:
+      - ./spark:/opt/bitnami/spark/work/
+      - ./config:/opt/hadoop/etc/hadoop
+    stdin_open: true
+    tty: true
+    networks:
+      - hadoop-spark-network
+
+networks:
+  hadoop-spark-network:
+    driver: bridge
